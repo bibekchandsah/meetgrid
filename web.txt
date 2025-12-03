@@ -1,0 +1,17 @@
+https://meetgrid.netlify.app/
+Google search: site:meetgrid.netlify.app
+https://t.me/meetgrid_bot
+
+
+commands
+/start
+/chat
+/stop
+/next
+/help
+/report
+/profile
+/editprofile
+/preferences
+/mediasettings
+/cancel
