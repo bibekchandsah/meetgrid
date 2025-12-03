@@ -15,3 +15,6 @@ commands
 /preferences
 /mediasettings
 /cancel
+
+
+MeetGrid is an anonymous random chat bot for Telegram that connects users worldwide. It supports instant matching, media sharing (text, photos, videos, stickers, documents), and provides safety tools like reporting, skipping, and auto-ban for inappropriate behavior. The bot is free, global, and designed for secure, anonymous conversations with smart preferences such as gender and country filters.
